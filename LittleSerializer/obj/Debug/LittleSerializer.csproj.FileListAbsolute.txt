@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Debug\LittleSerializer.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Debug\LittleSerializer.exe
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Debug\LittleSerializer.pdb
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\obj\Debug\LittleSerializer.exe
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\obj\Debug\LittleSerializer.pdb
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\obj\Debug\LittleSerializer.csprojResolveAssemblyReference.cache

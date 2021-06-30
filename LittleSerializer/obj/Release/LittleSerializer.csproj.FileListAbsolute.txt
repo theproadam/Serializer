@@ -1,0 +1,5 @@
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Release\LittleSerializer.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Release\LittleSerializer.exe
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\bin\Release\LittleSerializer.pdb
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\obj\Release\LittleSerializer.exe
+c:\users\adam\documents\visual studio 2013\Projects\LittleSerializer\LittleSerializer\obj\Release\LittleSerializer.pdb
