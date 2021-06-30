@@ -29,6 +29,14 @@ public static class Serializer
     }
 }
 ```
+### Benchmark
+The included ```LittleSerializer``` project demonstrates the speed and size advantage compared to regular serialization.
+<br/>Tested with a 100 byte struct, serialization (Fixed Buffer Sizes), Test ran outside VS, Release mode:
+| Method        | Output Size (bytes)        | Serialization Time (ms)        | Deserialization Time (ms)         |
+| ------------- | ------------- | ------------- |------------- |
+| Default-Serializer    | 100           | 0.1548           | 0.2243           | 
+| Marshal-Serializer      | 517           | 0.6545           | 0.576           | 
+
 
 ### Notes
 Make sure you include the proper ```[MarshalAs(..., ...)]``` lines to ensure no exception will be thrown.
