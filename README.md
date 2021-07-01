@@ -34,9 +34,10 @@ The included ```LittleSerializer``` project demonstrates the speed and size adva
 <br/>Tested with a 100 byte struct, serialization (Fixed Buffer Sizes), Test ran outside VS, Release mode:
 | Method        | Output Size (bytes)        | Serialization Time (ms)        | Deserialization Time (ms)         |
 | ------------- | ------------- | ------------- |------------- |
-| Default-Serializer    | 100           | 0.1548           | 0.222           | 
-| Marshal-Serializer      | 517           | 0.6545           | 0.576           | 
+| Marshal-Serializer    | 100           | 0.1548           | 0.222           | 
+| Default-Serializer      | 517           | 0.6545           | 0.576           | 
 
+Note the 5X smaller file size that the Marshal Serializer produces.
 
 ### Notes
 Make sure you include the proper ```[MarshalAs(..., ...)]``` lines to ensure no exception will be thrown.
